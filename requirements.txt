@@ -3,7 +3,5 @@ gitdb==4.0.7
 GitPython==3.1.18
 pandas==1.2.5
 pytest==6.2.2
-pywin32==228
-pywinpty==0.5.7
 sodapy==2.1.0
 streamlit==0.88.0
