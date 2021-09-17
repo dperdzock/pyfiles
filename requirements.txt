@@ -1,5 +1,4 @@
 cachetools==4.2.2
-conda==4.10.3
 gitdb==4.0.7
 GitPython==3.1.18
 pandas==1.2.5
