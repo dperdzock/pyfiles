@@ -1,0 +1,28 @@
+cachetools==4.2.2
+conda==4.10.3
+conda-package-handling @ file:///C:/ci/conda-package-handling_1618262320430/work
+gitdb==4.0.7
+GitPython==3.1.18
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1612212935303/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.3
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-core @ file:///C:/ci/jupyter_core_1612213356021/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-widgets==1.0.0
+matplotlib @ file:///C:/ci/matplotlib-suite_1628011511716/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1626271903025/work
+pandas==1.2.5
+pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
+pytest==6.2.2
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pywin32==228
+pywinpty==0.5.7
+scipy @ file:///C:/ci/scipy_1618856128765/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+sodapy==2.1.0
+SQLAlchemy @ file:///C:/ci/sqlalchemy_1612467807278/work
+streamlit==0.88.0
