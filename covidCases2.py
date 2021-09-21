@@ -7,7 +7,7 @@ st.set_page_config(layout = 'wide')
 st.title('Covid-19 Cases / Deaths in USA *')
 col1, col2 = st.columns([2,2])
 
-#@st.cache
+@st.cache
 def get_vaccination_data():
     df = get_data('data.cdc.gov', '9mfq-cb36')
     df['submission_date'] = pd.to_datetime(df['submission_date'])
