@@ -17,6 +17,8 @@ pickMan = ['All Cases','Cases Last 60 Days','All Deaths','Deaths Last 60 Days']
 optMan = st.sidebar.selectbox('Graph to Display: ', pickMan, 0)
 
 df = get_vaccination_data()
+# check for change in cases
+last_new_cases = df['new_case'].tail(5)
 
 #get new cases
 df = df.fillna(0)
